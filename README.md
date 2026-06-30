@@ -16,6 +16,7 @@ graph LR
     PRESENTER --> VIEW
 ```
 
+
 Направление зависимостей
 
 ```mermaid
@@ -44,7 +45,7 @@ graph LR
 
 Более подробная схема слоёв приложения с зависимостями
 
-<img width="1121" height="502" alt="Диаграмма без названия" src="https://github.com/user-attachments/assets/08383d9d-ae0e-46bf-8170-9f8c7eddbbd5" />
+<img width="1121" height="502" alt="Диаграмма без названия (1)" src="https://github.com/user-attachments/assets/8f32aabe-b371-4cad-bfe6-998a55ffcf49" />
 
 <b>*  ИСКЛЮЧЕНИЕ ИЗ ПОРЯДКА ЗАВИСИМОСТЕЙ</b><br>
 Окна зависят от AWindow базовой реализации WindowSystem. Так было удобнее инстансить и показывать/прятать окна.
