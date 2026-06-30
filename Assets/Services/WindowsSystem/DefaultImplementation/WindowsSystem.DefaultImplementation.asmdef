@@ -1,0 +1,20 @@
+{
+    "name": "WindowsSystem.DefaultImplementation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9650f144eedc2ce4ca31136708e06414",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:7a4aa3e06e9ebe841ba555d7cb1bf36f",
+        "GUID:21b0c8d1703a94250bfac916590cea4f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

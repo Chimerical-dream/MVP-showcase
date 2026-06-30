@@ -1,0 +1,22 @@
+{
+    "name": "Calculator.Dependencies",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:f64e4cea2062a4a47972d5e9088a6a9e",
+        "GUID:b554f8e0b197db54eaee7d29cec99625",
+        "GUID:97572ee330d4e9e4fbe21f0a5ad5aec8",
+        "GUID:9a3b16a7f11c2124492ecd6cf32c10d2",
+        "GUID:ec23797332d70fc49b38aa181cfa3226",
+        "GUID:b775333e161e8554da9bde53226f2598"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

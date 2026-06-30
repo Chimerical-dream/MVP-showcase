@@ -1,0 +1,21 @@
+{
+    "name": "Calculator.Adapters",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9a3b16a7f11c2124492ecd6cf32c10d2",
+        "GUID:97572ee330d4e9e4fbe21f0a5ad5aec8",
+        "GUID:17afb928137722c44a8982dd8ab795f5",
+        "GUID:7a4aa3e06e9ebe841ba555d7cb1bf36f",
+        "GUID:9650f144eedc2ce4ca31136708e06414",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

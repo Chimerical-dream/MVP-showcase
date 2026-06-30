@@ -1,0 +1,16 @@
+{
+    "name": "PersistentData.PlayerPrefs",
+    "rootNamespace": "",
+    "references": [
+        "GUID:17afb928137722c44a8982dd8ab795f5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
